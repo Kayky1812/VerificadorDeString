@@ -1,0 +1,15 @@
+C:\Users\kayky\OneDrive\Área de Trabalho\VerificadorDeString\VerificadorDeString\bin\Debug\net6.0\VerificadorDeString.exe
+C:\Users\kayky\OneDrive\Área de Trabalho\VerificadorDeString\VerificadorDeString\bin\Debug\net6.0\VerificadorDeString.deps.json
+C:\Users\kayky\OneDrive\Área de Trabalho\VerificadorDeString\VerificadorDeString\bin\Debug\net6.0\VerificadorDeString.runtimeconfig.json
+C:\Users\kayky\OneDrive\Área de Trabalho\VerificadorDeString\VerificadorDeString\bin\Debug\net6.0\VerificadorDeString.dll
+C:\Users\kayky\OneDrive\Área de Trabalho\VerificadorDeString\VerificadorDeString\bin\Debug\net6.0\VerificadorDeString.pdb
+C:\Users\kayky\OneDrive\Área de Trabalho\VerificadorDeString\VerificadorDeString\obj\Debug\net6.0\VerificadorDeString.csproj.AssemblyReference.cache
+C:\Users\kayky\OneDrive\Área de Trabalho\VerificadorDeString\VerificadorDeString\obj\Debug\net6.0\VerificadorDeString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kayky\OneDrive\Área de Trabalho\VerificadorDeString\VerificadorDeString\obj\Debug\net6.0\VerificadorDeString.AssemblyInfoInputs.cache
+C:\Users\kayky\OneDrive\Área de Trabalho\VerificadorDeString\VerificadorDeString\obj\Debug\net6.0\VerificadorDeString.AssemblyInfo.cs
+C:\Users\kayky\OneDrive\Área de Trabalho\VerificadorDeString\VerificadorDeString\obj\Debug\net6.0\VerificadorDeString.csproj.CoreCompileInputs.cache
+C:\Users\kayky\OneDrive\Área de Trabalho\VerificadorDeString\VerificadorDeString\obj\Debug\net6.0\VerificadorDeString.dll
+C:\Users\kayky\OneDrive\Área de Trabalho\VerificadorDeString\VerificadorDeString\obj\Debug\net6.0\refint\VerificadorDeString.dll
+C:\Users\kayky\OneDrive\Área de Trabalho\VerificadorDeString\VerificadorDeString\obj\Debug\net6.0\VerificadorDeString.pdb
+C:\Users\kayky\OneDrive\Área de Trabalho\VerificadorDeString\VerificadorDeString\obj\Debug\net6.0\VerificadorDeString.genruntimeconfig.cache
+C:\Users\kayky\OneDrive\Área de Trabalho\VerificadorDeString\VerificadorDeString\obj\Debug\net6.0\ref\VerificadorDeString.dll
